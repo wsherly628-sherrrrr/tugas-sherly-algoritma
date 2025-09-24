@@ -1,0 +1,6 @@
+print("nama saya sherly")
+print("umur saya 18 tahun")
+print("hobi saya baca novel")
+print("cita-cita saya guru")
+print("saya berasal dari jada bahrin")
+print("motivasi saya adalah hidup itu cuma sekali jadi jangan kau sia-siakan")
